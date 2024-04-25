@@ -2,3 +2,4 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'asdCode.de'
 theme = "PaperMod"
+publishDir = "docs"
