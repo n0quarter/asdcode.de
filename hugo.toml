@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'asdCode.de'
 theme = "PaperMod"
 publishDir = "docs"
+[params]
+    disableSpecial1stPost = true
