@@ -16,22 +16,114 @@
       <description></description>
     </item>
     <item>
-      <title>My eeeee Post</title>
-      <link>//localhost:1313/posts/2018/</link>
-      <pubDate>Thu, 25 Apr 2024 17:46:11 +0200</pubDate>
-      <guid>//localhost:1313/posts/2018/</guid>
-      <description>IT Salary Survey December 2018 November 22, 2019
-In December 2018, the salary survey has managed to collect over 700 responses. Before that, there were the similar salary surveys of 2016 (250 responses) and 2017 (300 responses).
-Traditionally, we start our analysis with how the average participant looks like.
-Age No major changes from the previous 2 years — the average age is 30-32.
-City As usual — Berlin and München are the most represented cities.</description>
+      <title>IT Salary Survey December 2019</title>
+      <link>//localhost:1313/posts/2019/</link>
+      <pubDate>Sat, 25 Jan 2020 17:11:57 +0200</pubDate>
+      <guid>//localhost:1313/posts/2019/</guid>
+      <description>The salary survey originated in 2015 in the Russian-speaking community and has been conducted every December for 5 years so far. You are welcome to explore the survey results&amp;rsquo; analytics in the articles from previous years. Here you can find some analytics based on collected survey responses from December 2019 as well as their comparison with the previous surveys&amp;rsquo; data.
+Thanks to everyone who filled out the salary survey form in 2019.</description>
     </item>
     <item>
-      <title>My aa Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 25 Apr 2024 17:11:57 +0200</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <title>IT Salary Survey December 2018</title>
+      <link>//localhost:1313/posts/2018/</link>
+      <pubDate>Sun, 20 Jan 2019 17:46:11 +0200</pubDate>
+      <guid>//localhost:1313/posts/2018/</guid>
+      <description>In December 2018, the salary survey has managed to collect over 700 responses. Before that, there were the similar salary surveys of 2016 (250 responses) and 2017 (300 responses).
+Traditionally, we start our analysis with how the average participant looks like.
+Age No major changes from the previous 2 years — the average age is 30-32.
+City As usual — Berlin and München are the most represented cities.
+Gender No change, almost equal to the last year.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic1/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic10/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic11/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic12/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic13/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic14/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic15/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic16/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic2/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic3/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic7/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic8/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/2019/pic9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2019/pic9/</guid>
+      <description> </description>
     </item>
   </channel>
 </rss>
